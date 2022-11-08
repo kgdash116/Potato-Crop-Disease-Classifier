@@ -22,6 +22,7 @@ Globally The potato crop diseases are classified into two types: Early Blight an
 
 ## Crop analysis
 
+![image](https://user-images.githubusercontent.com/101527504/200467839-30eb14aa-b900-4c1a-9c04-2eac8ab12c28.png)
 
 
 ---------------------
@@ -51,7 +52,10 @@ Globally The potato crop diseases are classified into two types: Early Blight an
 
 On evaluation the following loss and accuracy were obtained: 
 - Loss: 0.0141 
-- Accuracy: 0.9961 
+- Accuracy: 0.9961 <br>
+
+![image](https://user-images.githubusercontent.com/101527504/200467811-0bd1d159-1fb6-4940-adae-b620dc9adf6d.png)
+
 
 
 
@@ -61,6 +65,13 @@ On evaluation the following loss and accuracy were obtained:
 
 - Web Framework: FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+.
 - ASGI (UVICORN): Is The gateway inteface used for the web application is UVICORN. It’s a standard interface between async-capable Python web servers, frameworks, and applications.
+
+![image](https://user-images.githubusercontent.com/101527504/200467670-ec57e4dd-fa60-4d4e-8711-7b62f3351be2.png)<br><br>
+------------------
+
+## Final Outlook<br>
+![image](https://user-images.githubusercontent.com/101527504/200467754-d6faa242-f71c-4f24-ae51-0ef9f6ec0c20.png)
+
 
 
 
